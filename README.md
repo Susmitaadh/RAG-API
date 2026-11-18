@@ -1,4 +1,4 @@
-# RAG – Document-Based AI Assistant
+# RAG-API – Document-Based AI Assistant
 
 A Retrieval-Augmented Generation (RAG) application built with **FastAPI** that allows users to upload documents, search their content, and interact with an AI assistant using document context and conversation history.
 
