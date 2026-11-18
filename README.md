@@ -82,8 +82,4 @@ Open the interactive FastAPI documentation:
 
 `http://127.0.0.1:8000/docs`
 
-## Author
 
-**Susmita Adhikari**
-
-GitHub: https://github.com/Susmitaadh
